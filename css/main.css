@@ -239,7 +239,7 @@ h1, h2, h3, h4, h5, h6 { margin: 0; }
 
   .full-banner-image {
     flex: 0 0 58.333333%;
-    background-image: url('./img/vista.jpg');
+    background-image: url('../img/vista.jpg');
     background-size: cover;
     background-position: top center;
     min-height: 400px;
